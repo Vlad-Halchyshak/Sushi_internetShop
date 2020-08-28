@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sushi_internetShop/static/css/main.13acb749.chunk.css",
+    "main.js": "/Sushi_internetShop/static/js/main.951a917d.chunk.js",
+    "main.js.map": "/Sushi_internetShop/static/js/main.951a917d.chunk.js.map",
+    "runtime-main.js": "/Sushi_internetShop/static/js/runtime-main.7be134d8.js",
+    "runtime-main.js.map": "/Sushi_internetShop/static/js/runtime-main.7be134d8.js.map",
+    "static/js/2.b5b0b4e6.chunk.js": "/Sushi_internetShop/static/js/2.b5b0b4e6.chunk.js",
+    "static/js/2.b5b0b4e6.chunk.js.map": "/Sushi_internetShop/static/js/2.b5b0b4e6.chunk.js.map",
+    "index.html": "/Sushi_internetShop/index.html",
+    "precache-manifest.7c1db1e3d70da623b55233de0bbeeca8.js": "/Sushi_internetShop/precache-manifest.7c1db1e3d70da623b55233de0bbeeca8.js",
+    "service-worker.js": "/Sushi_internetShop/service-worker.js",
+    "static/css/main.13acb749.chunk.css.map": "/Sushi_internetShop/static/css/main.13acb749.chunk.css.map",
+    "static/js/2.b5b0b4e6.chunk.js.LICENSE.txt": "/Sushi_internetShop/static/js/2.b5b0b4e6.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/Sushi_internetShop/static/media/ProximaNova-Regular.b7c51278.eot",
+    "static/media/california_crab.jpg": "/Sushi_internetShop/static/media/california_crab.efc14534.jpg",
+    "static/media/empty.png": "/Sushi_internetShop/static/media/empty.a219d84c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be134d8.js",
+    "static/js/2.b5b0b4e6.chunk.js",
+    "static/css/main.13acb749.chunk.css",
+    "static/js/main.951a917d.chunk.js"
+  ]
+}

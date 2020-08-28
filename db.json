@@ -1,0 +1,99 @@
+{
+  "sushi": [
+    {
+      "id": 0,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53e3ac451ceb752f204ed?width=600",
+      "name": "California Crab",
+      "types": [0, 1],
+      "price": 5,
+      "size": ["8",  "16"],
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53dbac451ceb752f2049d?width=600",
+      "name": "California De-Lux",
+      "types": [0],
+      "price": 5,
+      "size": ["8","16"],
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53f94c451ceb752f20774?width=600",
+      "name": "Philadelphia light",
+      "types": [0],
+      "price": 5,
+      "size": [
+        "8",
+        "16"
+      ],
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53fa6c451ceb752f20790?width=600",
+      "name": "Philadelphia night",
+      "types": [1],
+      "size": [
+        "8",
+        "16"
+      ],
+      "price": 4,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53fb4c451ceb752f207a3?width=600",
+      "name": "Philadelphia with salmon",
+      "types": [0, 1],
+      "size": [
+        "8",
+        "16"
+      ],
+      "price": 6,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec3c208c451ceb7529401ac?width=600",
+      "name": "Philadelphia with tonno",
+      "types": [0],
+      "size": [
+        "8",
+        "16"
+      ],
+      "price": 7,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec7a802c451ceb752f2110b?width=600",
+      "name": "Philadelphia unagi",
+      "types": [0, 1],
+      "size": [
+        "8",
+        "16"
+      ],
+      "price": 4,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://client-api.sushi-master.ua/pics/5ec53d8dc451ceb752f2044d?width=600",
+      "name": "Golden Dragon",
+      "types": [0, 1],
+      "size": ["8", "16"],
+      "price": 6,
+      "category": 1,
+      "rating": 10
+    }
+    ]
+}
