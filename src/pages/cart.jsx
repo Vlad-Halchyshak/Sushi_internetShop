@@ -31,7 +31,7 @@ function Cart() {
 
 
   const onClickOrder = () => {
-console.log(items);
+alert('We are sorry, this option is not available now')
   }
 
   return (

@@ -4,7 +4,7 @@ import ContentLoader from 'react-content-loader'
 function Loading() {
   return (
     <ContentLoader
-      className="pizza-block"
+      className="sushi-block"
       speed={2}
       width={280}
       height={340}

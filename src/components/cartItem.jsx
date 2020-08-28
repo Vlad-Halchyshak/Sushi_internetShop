@@ -18,9 +18,9 @@ function CartItem({ id, name, type, size, price, totalPrice, totalCount, selecte
     <div className="cart__item">
       <div className="cart__item-img">
         <img
-          className="pizza-block__image"
+          className="sushi-block__image"
           src="https://client-api.sushi-master.ua/pics/5ec53dbac451ceb752f2049d?width=600"
-          alt="Pizza"
+          alt="Sushi"
         />
       </div>
       <div className="cart__item-info">

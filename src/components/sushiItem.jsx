@@ -37,10 +37,10 @@ function SushiItem({ id, name, imageUrl, price, types, size, isLoading, onClickS
 
 
   return (
-    <div className="pizza-block">
-      <img className="pizza-block__image" src={imageUrl} alt="Pizza" />
-      <h4 className="pizza-block__title">{name}</h4>
-      <div className="pizza-block__selector">
+    <div className="sushi-block">
+      <img className="sushi-block__image" src={imageUrl} alt="Pizzda" />
+      <h4 className="sushi-block__title">{name}</h4>
+      <div className="sushi-block__selector">
         <ul>
           {
             typeName.map((type, index) =>
@@ -65,8 +65,8 @@ function SushiItem({ id, name, imageUrl, price, types, size, isLoading, onClickS
 
         </ul>
       </div>
-      <div className="pizza-block__bottom">
-        <div className="pizza-block__price">{price}$</div>
+      <div className="sushi-block__bottom">
+        <div className="sushi-block__price">{price}$</div>
         <Button onClick={addSushi} className="button--add" outline>
          
            {/*  <path
