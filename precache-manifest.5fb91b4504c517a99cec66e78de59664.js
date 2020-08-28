@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7856b7c52ee3606b60d31509e897095",
+    "revision": "2de0155feab44bb40378923fdf5176f2",
     "url": "/Sushi_internetShop/index.html"
   },
   {
-    "revision": "096506a23a8b2f93f4d9",
+    "revision": "a9e3b17ad9045170bef9",
     "url": "/Sushi_internetShop/static/css/main.13acb749.chunk.css"
   },
   {
-    "revision": "bf65fc0032ede00ce1fe",
-    "url": "/Sushi_internetShop/static/js/2.b5b0b4e6.chunk.js"
+    "revision": "4d248af577a68c029b7f",
+    "url": "/Sushi_internetShop/static/js/2.4928eb96.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Sushi_internetShop/static/js/2.b5b0b4e6.chunk.js.LICENSE.txt"
+    "url": "/Sushi_internetShop/static/js/2.4928eb96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "096506a23a8b2f93f4d9",
-    "url": "/Sushi_internetShop/static/js/main.951a917d.chunk.js"
+    "revision": "a9e3b17ad9045170bef9",
+    "url": "/Sushi_internetShop/static/js/main.ee421465.chunk.js"
   },
   {
     "revision": "1e64da89ac02a08c6b74",
